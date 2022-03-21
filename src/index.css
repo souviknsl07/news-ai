@@ -6,7 +6,8 @@ body {
 
 body {
   margin: 0;
-  background-color: whitesmoke;
+  background: url("news-back.jpg");
+  background-size: cover;
 }
 
 * {
